@@ -12,7 +12,7 @@ This mini project simulates a turtle race using Python's `turtle` graphics modul
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/itssahillwhat/Turtle Race.git
+   git clone https://github.com/itssahillwhat/Python-Projects/Turtle Race.git
    cd Turtle Race
    ```
 
