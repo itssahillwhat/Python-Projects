@@ -7,7 +7,7 @@ This game requires Python 3 and the Turtle module, which is included in the stan
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/itssahillwhat/Snake Game.git
+git clone https://github.com/itssahillwhat/Python-Projects/Snake Game.git
 ```
 2. Navigate to the project directory:
 ```bash
