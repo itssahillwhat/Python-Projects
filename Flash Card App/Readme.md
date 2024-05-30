@@ -7,7 +7,7 @@ This game requires Python 3 and Pandas, Tkinter and Random module, which is incl
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/itssahillwhat/Flash Card App.git
+git clone https://github.com/itssahillwhat/Python-Projects/Flash Card App.git
 ```
 2. Navigate to the project directory:
 ```bash
