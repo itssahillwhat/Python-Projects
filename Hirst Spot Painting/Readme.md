@@ -56,4 +56,12 @@ pip install colorgram.py
 
 * [Colorgram Package](https://pypi.org/project/colorgram.py/)
 
+## Contributing
+Contributions to this project are welcome! Here are some ways you can contribute:
+
+* Report bugs or suggest new features by opening an issue.
+* Fork the repository, make your changes, and submit a pull request.
+
+Please make sure to update tests as appropriate and follow the existing code style.
+
 Enjoy creating your Hirst-inspired spot painting!
