@@ -49,5 +49,12 @@ This mini project simulates a turtle race using Python's `turtle` graphics modul
 
 * [Turtle.textinput documentation](https://docs.python.org/3.1/library/turtle.html#turtle.textinput)
 
+## Contributing
+Contributions to this project are welcome! Here are some ways you can contribute:
+
+* Report bugs or suggest new features by opening an issue.
+* Fork the repository, make your changes, and submit a pull request.
+
+Please make sure to update tests as appropriate and follow the existing code style.
 
 Enjoy your turtle race game!
