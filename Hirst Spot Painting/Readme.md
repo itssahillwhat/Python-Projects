@@ -19,6 +19,21 @@ First, ensure you have Python 3.x installed. Then, install the Colorgram library
 pip install colorgram.py
 ```
 
+## How to Run
+
+1. **Clone the Repository:**
+
+   ```sh
+   git clone https://github.com/itssahillwhat/Python-Projects.git
+   cd Hirst Spot Painting
+   ```
+
+2. **Run the Script:**
+
+   ```sh
+   python main.py
+   ```
+
 ## Usage
 1. Place an image named Hirst Spot.jpg in the same directory as the script.
 2. Run the script. It will create a 10x10 grid of colored dots using colors extracted from the image.
@@ -29,22 +44,16 @@ pip install colorgram.py
 
 ## Helpful Links
 
-* Turtle Graphics Documentation<br/>
-https://docs.python.org/3/library/turtle.html
+* [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
 
-* Trinket Turtle Colours<br/>
-https://trinket.io/docs/colors
+* [Trinket Turtle Colours](https://trinket.io/docs/colors)
 
-* Turtle Colours<br/>
-https://cs111.wellesley.edu/reference/colors
+* [Turtle Colours](https://cs111.wellesley.edu/reference/colors)
 
-* What is a Random Walk?<br/>
-https://en.wikipedia.org/wiki/Random_walk
+* [What is a Random Walk?](https://en.wikipedia.org/wiki/Random_walk)
 
-* RGB Tool from W3Schools<br/>
-https://www.w3schools.com/colors/colors_rgb.asp
+* [RGB Tool from W3Schools](https://www.w3schools.com/colors/colors_rgb.asp)
 
-* Colorgram Package<br/>
-https://pypi.org/project/colorgram.py/
+* [Colorgram Package](https://pypi.org/project/colorgram.py/)
 
 Enjoy creating your Hirst-inspired spot painting!
