@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% from 'bootstrap5/form.html' import render_form %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit</title>
+</head>
+<body>
+    <ul>
+    {% for book in books %}
+        {% if book.id == id %}
+            <li>Book Name: {{ book.title }}</li>
+            <li>Current Rating: {{ book.rating }}/10</li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+    {{ render_form(form, novalidate=True) }}
+</body>
+</html>
